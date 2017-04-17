@@ -21,6 +21,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wxiluo
 github_username:  wxiluo
 
+timezone: Asia/Shanghai
+
 # Build settings
 markdown: kramdown
 theme: minima
