@@ -84,6 +84,7 @@ shadowsocks-libev 安装完成后，默认配置文件位置在 `/usr/local/etc/
 将这个 Proxy 添加到一个正在使用 Proxy Group 中：双击 Proxy Group，然后将刚才创建的这个代理添加到该 Proxy Group 里。
 
 在 Surge 的菜单中，点击 **Reload Configuration**，并在 Proxy 列表中选择刚刚创建好的 Proxy。
+![](/assets/img/screenshot-2017-04-17.png)
 
 至此，大功告成。
 

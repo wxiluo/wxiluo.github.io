@@ -24,6 +24,12 @@ github_username:  wxiluo
 timezone: Asia/Shanghai
 permalink: pretty
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: minima
