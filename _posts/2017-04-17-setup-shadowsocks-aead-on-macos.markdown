@@ -28,13 +28,13 @@ categories: shadowsocks
 
 Homebrew 需要 **Xcode Command Line Tools** 或 **Xcode**，如果你不是 iOS 或 macOS 的开发者就没有比较安装庞大的 Xcode，用 Xcode Command Line Tools 就够了。
 
-### 安装 Xcode Command Line Tools
+#### 安装 Xcode Command Line Tools
 
 安装 Xcode Command Line Tools，在命令行中执行，按照提示下载安装：
 
     $ xcode-select --install
 
-### 安装 Homebrew
+#### 安装 Homebrew
 
 安装 Homebrew，在命令行中执行：
 
