@@ -22,6 +22,7 @@ twitter_username: wxiluo
 github_username:  wxiluo
 
 timezone: Asia/Shanghai
+permalink: pretty
 
 # Build settings
 markdown: kramdown

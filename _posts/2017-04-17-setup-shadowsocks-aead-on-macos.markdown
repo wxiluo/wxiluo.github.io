@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadowsocks AEAD on macOS"
 date:   2017-04-17 16:16:07 +0800
-categories: shadowsocks AEAD macOS
+categories: shadowsocks
 ---
 [AEAD][AEAD] 是 Shadowsocks 最新的协议标准，增强了应对发现和检测的强度。支持 AEAD 的客户端还没有，暂时只能使用 shadowsocks 的命令行版本使用。
 
